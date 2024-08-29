@@ -1,0 +1,6 @@
+InsertServlet.class
+com\mycompany\product_assign\resources\JavaEE8Resource.class
+DeleteServlet.class
+UpdateServlet.class
+FirstServlet.class
+com\mycompany\product_assign\JAXRSConfiguration.class
